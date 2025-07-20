@@ -14,5 +14,4 @@ Installation steps;
 - Move all files into a folder.
 - Fill out the config.ts with all information
 - Open CMD
-- CD into the API's directory and run `npm i`
-- Then start the API using `npm start`
+- CD into the directory then start the API using `npm run prod`
