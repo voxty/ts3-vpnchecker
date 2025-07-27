@@ -1,5 +1,5 @@
 
-# TS3 VPN Checker
+# TS3 VPN Checker dev
 
 Prevents people from connecting to your TS3 Server with a known proxy or VPN.
 
